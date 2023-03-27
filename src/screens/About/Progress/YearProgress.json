@@ -1,0 +1,30 @@
+
+{"YearProgress":[
+    
+    {
+        "year":"2017",
+        "image":"/Mobileform_transparent.svg",
+        "Summary": "Launched the Mobileform data collection platform."
+    },
+
+    {
+        "year":"2019",
+        "image":"payforce_transparent.svg",
+        "Summary": "Delivered the largest social investment programme in Africa.",
+        "Summary2": "Lunched Payforce agent banking collected data on 4.5M traders across Nigeria."
+    },
+    {
+        "year":"2020",
+        "image":"/Ycombinator.svg",
+        "Summary": "Got into Y-Combinator"
+    },
+    {
+        "year":"2022",
+        "subheading":"Merchant",
+        "image":"/payforce_transparent.svg",
+        "Summary": "$3.6M Seed Round",
+        "Summary2": "Lunched Payforce merchant banking.",
+        "Summary3": "Lunched Payforce shop (B2B commerce)"
+    }
+    ]
+}

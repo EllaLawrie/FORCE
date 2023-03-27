@@ -1,0 +1,6 @@
+{
+  "DownloadPromptList": [
+    { "image": "/GooglePlay.svg", "text": "Get on Android" },
+    { "image": "/AppleIcon.svg", "text": "Get on iPhone" }
+  ]
+}

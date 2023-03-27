@@ -1,0 +1,20 @@
+{
+  "productlinks": [
+    { "url": "/", "name": "Payforce" },
+    { "url": "/", "name": "Mobileform" },
+    { "url": "/", "name": "Payforce shop" },
+    { "url": "/", "name": "API integration" }
+  ],
+  "companylinks": [
+    { "url": "/", "name": "About us" },
+    { "url": "/", "name": "FAQ’s" },
+    { "url": "/", "name": "Blog" },
+    { "url": "/", "name": "Careers" }
+  ],
+  "legallinks": [
+    { "url": "/", "name": "Policies " },
+    { "url": "/", "name": "Terms and conditions" },
+    { "url": "/", "name": "Information security policy" },
+    { "url": "/", "name": "Help center" }
+  ]
+}

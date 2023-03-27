@@ -1,0 +1,25 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "service": "Merchant",
+      "summary": "Employ our powerful banking and payment tools to manage your business. Get a POS terminal and enjoy low fees on all transactions",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "service": "POS",
+      "summary": "Super tools for business owners to manage multiple business operations from a single dashboard, collect payments from their customers via different channels, track transactions... ",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "service": "Mobile Banking",
+      "summary": "Employ our powerful banking and payment tools to manage your business. Get a POS terminal and enjoy low fees on all transactions",
+      "url": "",
+      "image": ""
+    }
+  ]
+}

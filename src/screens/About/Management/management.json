@@ -1,0 +1,14 @@
+{
+  "management": [
+    {
+      "name": "Oluwatomi",
+      "role": "CEO / Co-Founder",
+      "image": "/Oluwatomi.png"
+    },
+    {
+      "name": "Damilola",
+      "role": "COO / Co-Founder",
+      "image": "/Damilola.png"
+    }
+  ]
+}

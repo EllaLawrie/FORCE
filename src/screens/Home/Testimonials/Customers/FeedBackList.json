@@ -1,0 +1,25 @@
+{
+    "feedbacks": [
+        {
+            "image": "customer1.svg",
+            "name": "Amarachi Oluikpe",
+            "comment": "Great experience,friendly interface. It has provided an efficient way for me to carry out transactions.",
+            "date": "14/09/2022"
+            
+        },
+        {
+            "image": "customer1.svg",
+            "name": "Emmanuel Samuel",
+            "comment": "If you want reliable and convenient financial solution then I recomend this app. It’s the best fintech app.",
+            "date": "16/09/2022"
+            
+        },
+        {
+            "image": "customer3.svg",
+            "name": "Glorious Oyedele",
+            "comment": "Love love love the new update, the virtual Card feature is great. It has opened the doors to new users",
+            "date": "16/09/2022"
+            
+        }
+    ]
+}

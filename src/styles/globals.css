@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: white;
+  height: 100vh;
+}
+
+.hero_section {
+  /* background: radial-gradient(
+    50% 54.27% at 63.09% 44.34%,
+    #0f375a 0%,
+    #0b2943 100%
+  );
+  border-radius: 0 0 50% 50% / 50px; */
+  background-image: url('/HeroBg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero_section_lg {
+  /* background: radial-gradient(
+    50% 54.27% at 63.09% 44.34%,
+    #0f375a 0%,
+    #0b2943 100%
+  );
+  border-radius: 0 0 50% 50% / 50px; */
+  background-image: url('/HeroBgB.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.incomplete_circle {
+  background: url('/incomplete_circle.svg');
+}
+
+.banner {
+  height: 652px;
+  background-position: bottom right;
+  width: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url('/hero_banner.svg');
+}
+
+.Hero-image{
+  position: relative !important;
+}
+
+.our-journey{
+  background-image: url('/OurJourneyBG.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

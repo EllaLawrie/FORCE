@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "src": "/vanguard.svg",
+    "width": 130,
+    "height": 28
+  },
+  {
+    "id": "2",
+    "src": "/techcrunch.svg",
+    "width": 129,
+    "height": 24
+  },
+  {
+    "id": "3",
+    "src": "/techcabal.svg",
+    "width": 149,
+    "height": 32
+  },
+  {
+    "id": "4",
+    "src": "/businessday.svg",
+    "width": 147,
+    "height": 31
+  },
+  {
+    "id": "5",
+    "src": "/techpoint.svg",
+    "width": 149,
+    "height": 36
+  },
+  {
+    "id": " 6",
+    "src": "/sahara.svg",
+    "width": 155,
+    "height": 30
+  }
+]
